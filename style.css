@@ -110,10 +110,11 @@ main {
  transform: rotate(45deg) translate(-5px, -7px);   
 }
 
-.burguer {
-    background-color: #4b5c6b;
-    color: #ffffff;
+.submenu {
+    display: flex;
+    justify-content: center;
+    background-color: #5C7285;
     padding: 10px;
-    cursor: pointer;
-    text-align: start;
+    gap: 20px;
+}
 }
