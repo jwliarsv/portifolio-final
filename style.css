@@ -110,7 +110,7 @@ main {
  transform: rotate(45deg) translate(-5px, -7px);   
 }
 
-.line1 {
+.nav-list {
     display: flex;
     justify-content: space-between;
     background-color: #565e8e;
